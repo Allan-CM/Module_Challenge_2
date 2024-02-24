@@ -7,6 +7,11 @@ After experimenting with VBA scripts, I've chosen to demonstrate the skills I've
 ## Built with
 *	![Excel](https://img.shields.io/badge/Excel-63BE7B)
 
+## Understanding the Project 
+As mentioned previously this project analysis stock market data. For my project I decided to breakdown each step of my analysis into various script. 
+- First I created a lopp that runs through all the stock names which is commonly referred to as the ticker symbol to idenitfy all unique ticker symbols
+  - ![Ticker Symbol](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/TicketScriptResult.png)
+
 TickerSymbol Script --> Loops through all stocks and outputs each unique ticker symbol 
 TickerSymbol Screenshot --> Screenshot shows result of the tickersymbol script code 
 Yearly change Script --> Loops through all stock and outputs the difference between the closing and opening price for each stock at the of of the year 
