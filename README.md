@@ -15,10 +15,10 @@ As mentioned previously this project analysis stock market data. For my project 
   - ![Yearly Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/YearlyChangeScriptResult.png)
 - Next, I created a loop that runs through all stock and outputs the percentage change for the year
   - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
-- Next, I created a loop that runs through all stock and outputs the percentage change for the year
-  - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
-- Next, I created a loop that runs through all stock and outputs the percentage change for the year
-  - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
+- Next, I calculated the total stock volume for each stock 
+  - ![TSV](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/TotalStockVolumeScriptResult%20.png)
+- Finally, the script runs through a loop to determine the ticker symbol and value for the categories of greatest increas/decrease and total volume 
+  - ![Greatest Number](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/GreatestNumbersScriptResult%20.png)
 
 
 
