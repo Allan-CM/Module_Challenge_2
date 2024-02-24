@@ -9,15 +9,20 @@ After experimenting with VBA scripts, I've chosen to demonstrate the skills I've
 
 ## Understanding the Project 
 As mentioned previously this project analysis stock market data. For my project I decided to breakdown each step of my analysis into various script. 
-- First I created a lopp that runs through all the stock names which is commonly referred to as the ticker symbol to idenitfy all unique ticker symbols
+- First I created a loop that runs through all the stock names which is commonly referred to as the ticker symbol to idenitfy all unique ticker symbols. Please see TickerSymbol Script
   - ![Ticker Symbol](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/TicketScriptResult.png)
+- Next I created a loop that runs through all stocks and outputs the difference between the closing and opening prioce for each stock at the end of the year to determine the yearly change
+  - ![Yearly Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/YearlyChangeScriptResult.png)
+- Next, I created a loop that runs through all stock and outputs the percentage change for the year
+  - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
+- Next, I created a loop that runs through all stock and outputs the percentage change for the year
+  - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
+- Next, I created a loop that runs through all stock and outputs the percentage change for the year
+  - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
 
-TickerSymbol Script --> Loops through all stocks and outputs each unique ticker symbol 
-TickerSymbol Screenshot --> Screenshot shows result of the tickersymbol script code 
-Yearly change Script --> Loops through all stock and outputs the difference between the closing and opening price for each stock at the of of the year 
-Yearly change Screenshot --> Screenshot shows result of the yearly change script code 
-Percentage change script --> Loop through all stock and outputs the percentage change for that year 
-Percentage change screenshot --> Screenshot shows result of the percentage change script code
+
+
+
 Total stock volume script --> Shows total stock volume for each stock 
 Total stock volume screenshot --> Shows sresult opf the total stock volume script code
 Greatest number script --> Code runs through loop to determine the ticker symbol and vlaue for the categories of greatest% increase/decrrease and greatest total volume 
