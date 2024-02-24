@@ -16,23 +16,16 @@ As mentioned previously this project analysis stock market data. For my project 
 - Next, I created a loop that runs through all stock and outputs the percentage change for the year
   - ![Percentage Change](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png)
 - Next, I calculated the total stock volume for each stock 
-  - ![TSV](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/TotalStockVolumeScriptResult%20.png)
+  - ![TSV](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/TotalStockVolumeScriptResult%20.png)
 - Finally, the script runs through a loop to determine the ticker symbol and value for the categories of greatest increas/decrease and total volume 
-  - ![Greatest Number](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/PercentageChangeScriptResult.png](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/GreatestNumbersScriptResult%20.png)
+  - ![Greatest Number](https://github.com/Allan-CM/VBA-Excel-Showcase/blob/main/GreatestNumbersScriptResult%20.png)
+
+## Author contact
+Allan Mathews - allancmathews@gmail.com
+
+## Acknowledgements/References 
+*To autofit cells contents code (ActiveSheet.UsedRange.EntireRow.AutoFit) was modeled from https://excelchamps.com/vba/autofit/)
+*To format the percentage column and round to two decimal places code was modeled from (https://www.mrexcel.com/board/threads/vba-change-number-of-decimal-places-of-a-percentage.521221/)
 
 
-
-
-Total stock volume script --> Shows total stock volume for each stock 
-Total stock volume screenshot --> Shows sresult opf the total stock volume script code
-Greatest number script --> Code runs through loop to determine the ticker symbol and vlaue for the categories of greatest% increase/decrrease and greatest total volume 
-Great nubmer screenshot --> shows result of greatest number script code
-
-**WORKSHEETLOOP SCRIPT CONTAINTS THE FINAL VBA SCRIPT FOR THIS MODULE CHALLENEGE**
-WorkSheetLoop script --> runs the previous script through every worksheet to output the above information 
-WorkSheet 1,2,3 screenshot--> shows result of the Worksheet loop scriopt
-
-Code that was used from other sites for this challenege: 
-1. To autofit cells contents code (ActiveSheet.UsedRange.EntireRow.AutoFit) was modeled from https://excelchamps.com/vba/autofit/
-2. To format the percentage column and round to two decimal places code was modeled from https://www.mrexcel.com/board/threads/vba-change-number-of-decimal-places-of-a-percentage.521221/
 
